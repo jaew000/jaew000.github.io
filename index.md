@@ -1,3 +1,8 @@
+---
+layout: home
+title: jaew000 Blog
+---
+
 # 👋 Welcome to jaew000's Blog!
 
 안녕하세요! 🙌  
